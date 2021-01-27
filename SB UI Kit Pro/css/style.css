@@ -1,0 +1,23 @@
+.bg-light {
+    background-color: white !important;
+
+}
+footer .row p a {
+    text-decoration: none;
+    color: gray;
+}
+footer .row .footerLinks {
+    margin-top: 2em;
+}
+footer .row .col-md-3 .icons a{
+    color: gray;
+}
+footer {
+    background-color: #f2f6fc 
+}
+.thirdSection h2 {
+    font-size: 4rem;
+}
+.navbarRight{
+    justify-content: flex-end;
+}
